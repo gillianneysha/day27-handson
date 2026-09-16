@@ -1,0 +1,8 @@
+{
+  "featureFlags": {
+    "newDashboard": {
+      "enabled": false,
+      "description": "Toggles the redesigned dashboard UI"
+    }
+  }
+}
